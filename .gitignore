@@ -1,0 +1,5 @@
+# Generated artifacts
+build/
+dist/
+__pycache__/
+*.pyc
